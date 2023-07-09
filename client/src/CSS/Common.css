@@ -1,0 +1,7 @@
+.min-abs-height {
+    min-height: var(--min-height);
+  }
+  
+  .min-abs-width {
+    min-width: var(--min-width);
+  }  
